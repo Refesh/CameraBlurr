@@ -12,7 +12,7 @@ Para la implementación he usado Processing 3.5.4.
 
 <img src="readmeImages/view.png"
      alt="Cámara básica"
-     width="80%" />
+     width="60%" />
 
 **Vista:** Solo hay  una vista desde la que se ve la cámara del usuario.
 
