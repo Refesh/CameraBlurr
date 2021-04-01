@@ -9,6 +9,7 @@ Esta práctica consiste en la creación de una interacción con la cámara.
 ## Implementación y argumentación
 
 Para la implementación he usado Processing 3.5.4.
+
 <img src="readmeImages/view.png"
      alt="Cámara básica"
      width="80%" />
